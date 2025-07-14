@@ -1,4 +1,4 @@
-# WoMakersCode | S&P Global Bootcamp — Data Science & Analytics
+# WoMakersCode | S&P Global — Data Science & Analytics Bootcamp
 
 This repository documents exercises, challenges, and notes completed during the **WoMakersCode & S&P Global - Data Science & Analytics Bootcamp**. This initiative aims to strengthen women's presence in data careers through technical training, practical challenges, and applied learning.
 
